@@ -1,4 +1,4 @@
-# Metronome
+# Reactronome
 ### A metronome application to practice the aspects of React.
 
 ## Description
